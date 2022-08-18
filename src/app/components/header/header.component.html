@@ -1,0 +1,6 @@
+<div class="container">
+  <header>
+    <h3 [ngStyle]="{ color: color }">{{ text }}</h3>
+    <app-button name="Add" color="green" (add)="addTask()"></app-button>
+  </header>
+</div>

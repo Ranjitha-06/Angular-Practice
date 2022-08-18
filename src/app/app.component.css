@@ -1,0 +1,9 @@
+.container {
+  border-style: outset;
+  border-radius: 2%;
+  width: auto;
+  height: 30%;
+  border-color: aquamarine;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 75%;
+}
